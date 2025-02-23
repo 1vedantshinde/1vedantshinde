@@ -6,7 +6,10 @@ I'm Vedant, I'm a software developer with a focus on Artificial Intelligence and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vedantshinde&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=1vedantshinde&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=1vedantshinde&theme=vision-friendly-dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=1vedantshinde&theme=github)
+
 
 
 
