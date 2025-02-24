@@ -15,4 +15,7 @@ I'm Vedant, I'm a software developer with a focus on Artificial Intelligence and
 
 
 
-![Alt Text](https://github.com/1vedantshinde/1vedantshinde/blob/main/75xZ.gif)
+<p align="center">
+  <img src="https://github.com/1vedantshinde/1vedantshinde/blob/main/75xZ.gif" width="100%">
+</p>
+
