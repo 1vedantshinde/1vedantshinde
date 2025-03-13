@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hello there 👋
 
 I'm Vedant.
 I'm a software developer with a focus on Artificial Intelligence and Machine Learning.
